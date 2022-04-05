@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mns_j\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {}
+    "C:\\Users\\mns_j\\Documents\\GitHub\\Formacao-ASP.NET-Core-REST-APIs\\FilmesAPI\\FilmesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mns_j\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {
+    "C:\\Users\\mns_j\\Documents\\GitHub\\Formacao-ASP.NET-Core-REST-APIs\\FilmesAPI\\FilmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mns_j\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\mns_j\\Documents\\GitHub\\Formacao-ASP.NET-Core-REST-APIs\\FilmesAPI\\FilmesAPI.csproj",
         "projectName": "FilmesAPI",
-        "projectPath": "C:\\Users\\mns_j\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectPath": "C:\\Users\\mns_j\\Documents\\GitHub\\Formacao-ASP.NET-Core-REST-APIs\\FilmesAPI\\FilmesAPI.csproj",
         "packagesPath": "C:\\Users\\mns_j\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mns_j\\source\\repos\\FilmesAPI\\FilmesAPI\\obj\\",
+        "outputPath": "C:\\Users\\mns_j\\Documents\\GitHub\\Formacao-ASP.NET-Core-REST-APIs\\FilmesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mns_j\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
               "version": "[8.1.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
               "version": "[5.0.14, )"
             },

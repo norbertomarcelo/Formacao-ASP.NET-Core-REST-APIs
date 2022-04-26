@@ -5,7 +5,17 @@
       "ProjectGuid": "e8ea5edf-365c-485c-834d-3d3869d61dc5",
       "DisplayName": "FilmesAPI",
       "ColorIndex": 0
+    },
+    "77777fd8-b761-46d6-8ac0-79683ca10408": {
+      "ProjectGuid": "77777fd8-b761-46d6-8ac0-79683ca10408",
+      "DisplayName": "UsuariosApi",
+      "ColorIndex": 1
+    },
+    "9e37c641-28b5-4e6c-8666-4b45559970f1": {
+      "ProjectGuid": "9e37c641-28b5-4e6c-8666-4b45559970f1",
+      "DisplayName": "UsuariosApi",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

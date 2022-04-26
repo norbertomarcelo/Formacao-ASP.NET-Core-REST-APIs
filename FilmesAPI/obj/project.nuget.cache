@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3r3lOvpnZv6eGWO18nhV70EcD6tNRmA3kpewnwr0Nt1V0W9s8j5/SlTC0oJ63qfPn/3+D4tOEyz9adEuUc6Wwg==",
+  "dgSpecHash": "MzpakoNWmjPO+9KpCZ//4pbV08fACg3mjUORqoT+F0VX5KpWHPxMqJJM3/c7Sxl5a4IvsYQUXTl09BMZE13sDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mns_j\\Documents\\GitHub\\Formacao-ASP.NET-Core-REST-APIs\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\mns_j\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\mns_j\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\mns_j\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
+    "C:\\Users\\mns_j\\.nuget\\packages\\fluentresults\\3.4.0\\fluentresults.3.4.0.nupkg.sha512",
     "C:\\Users\\mns_j\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
     "C:\\Users\\mns_j\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mns_j\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

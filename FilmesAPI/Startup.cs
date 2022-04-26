@@ -1,4 +1,5 @@
 using FilmesAPI.Data;
+using FilmesAPI.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -25,6 +26,7 @@ namespace FilmesAPI
             services.AddDbContext<AppDbContext>(options => options.UseLazyLoadingProxies().UseMySQL(Configuration.GetConnectionString("FilmeConnection")));
             services.AddControllers();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            services.AddScoped<FilmeService, FilmeService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -33,8 +35,6 @@ namespace FilmesAPI
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "FilmesAPI v1"));
             }
 
             app.UseHttpsRedirection();

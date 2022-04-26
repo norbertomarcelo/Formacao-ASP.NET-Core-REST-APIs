@@ -59,6 +59,8 @@ C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\De
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\FluentResults.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Google.Protobuf.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Humanizer.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\K4os.Compression.LZ4.dll
@@ -67,6 +69,7 @@ C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\De
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
@@ -96,5 +99,3 @@ C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\obj\De
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\obj\Debug\net5.0\ref\FilmesAPI.dll
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\obj\Debug\net5.0\FilmesAPI.pdb
 C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
-C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Castle.Core.dll
-C:\Users\mns_j\Documents\GitHub\Formacao-ASP.NET-Core-REST-APIs\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
